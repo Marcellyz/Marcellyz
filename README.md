@@ -1,7 +1,7 @@
 ### Olá, eu sou Marcelly Silva ❤️😊
 
 ![Marcelly GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcellyz&show_icons=true&theme=synthwave)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcellyz&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcellyz&layout=compact&theme=synthwave)
 ## Tecnologias que eu utilizo no meu dia a dia
 <div>
   <br>
